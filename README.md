@@ -2,6 +2,17 @@
 - Identifying the Apple defects using various Machine Learning Model initially we used MobileNetV2
 
 
+### File Structure
+```bash
+/content/
+├── train/
+│   ├── good/
+│   └── bad/
+├── test/
+│   ├── good/
+│   └── bad/
+```
+
 # Alternative ML Models for Apple Defect Detection
 
 | Model             | Type               | When to Use                                           | Accuracy Potential |
